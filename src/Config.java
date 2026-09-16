@@ -1,4 +1,4 @@
 public class Config {
-    int timeout = 60;
+    int timeout = 45;
     int retry = 3;
 }
